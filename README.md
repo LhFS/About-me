@@ -53,7 +53,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/lhfs/lhfs/blob/output/snake.svg" alt="Snake animation" />
-
-###
